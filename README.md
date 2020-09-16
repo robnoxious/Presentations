@@ -1,6 +1,6 @@
 # Presentations
 
-This repo is a place to store all of my public presentations slides and code samples. 
+This repo is a place to store all of my public presentations slides and code samples.
 
 If it's here, you are welcome to use it.
 
