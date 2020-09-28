@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance Title="HelloAppCustomizer" Location="ClientSideExtension.ApplicationCustomizer" ComponentId="29de3d49-2282-40b7-b52f-bd77625cfd14" Properties="{&quot;header&quot;:&quot;Header Area of the Page&quot;,&quot;footer&quot;:&quot;Footer Area of the Page&quot;}">
+    </ClientSideComponentInstance>
+</Elements>

@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "packageManager": "pnpm",
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.11.0",
+    "libraryName": "sp-fx-http-client-demo",
+    "libraryId": "5ebec8ac-e9be-4051-b143-e3d18f99ecbd",
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

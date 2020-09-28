@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "packageManager": "pnpm",
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.11.0",
+    "libraryName": "react-demo",
+    "libraryId": "9627ffce-753c-4fbf-8efd-42a2c6330a0b",
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
